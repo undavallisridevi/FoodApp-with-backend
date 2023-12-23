@@ -1,1 +1,39 @@
-[]
+[
+    {
+        "items": [
+            {
+                "id": "m6",
+                "name": "Grilled Chicken Sandwich",
+                "price": "10.99",
+                "description": "Tender grilled chicken breast with avocado, bacon, lettuce, and honey mustard on a toasted bun.",
+                "image": "images/grilled-chicken-sandwich.jpg",
+                "quantity": 2
+            },
+            {
+                "id": "m12",
+                "name": "Pancake Stack",
+                "price": "8.99",
+                "description": "Fluffy pancakes stacked high, drizzled with maple syrup and topped with fresh berries.",
+                "image": "images/pancake-stack.jpg",
+                "quantity": 1
+            },
+            {
+                "id": "m15",
+                "name": "Chocolate Brownie",
+                "price": "5.99",
+                "description": "A rich and fudgy brownie, topped with a scoop of vanilla ice cream and chocolate sauce.",
+                "image": "images/chocolate-brownie.jpg",
+                "quantity": 3
+            }
+        ],
+        "customer": {
+            "name": "Rahul",
+            "email": "rahul@gmail.com",
+            "street": "xyz",
+            "postal-code": "567879",
+            "city": "xyz"
+        },
+        "totalAmount": "$48.94",
+        "id": "606.1468818170852"
+    }
+]

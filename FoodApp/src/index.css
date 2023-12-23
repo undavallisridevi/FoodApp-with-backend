@@ -248,7 +248,18 @@ body {
   justify-content: flex-start;
   gap: 1rem;
 }
-
+.center
+{
+  text-align: center;
+}
+.error
+{
+  background-color: lightcoral;
+  width: 40%;
+  border-radius: 2%;
+  padding: 0.3% 0.2%;
+  color: black;
+}
   @keyframes fade-slide-up {
     from {
       opacity: 0;
